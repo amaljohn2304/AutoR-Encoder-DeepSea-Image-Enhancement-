@@ -11,5 +11,9 @@ Dataset: https://drive.google.com/drive/folders/1ZEql33CajGfHHzPe1vFxUFCMcP0YbZb
 
 <h2>Output</h2>
 <p align="center">
-  <img src="Results/download (1).png" width="350" title="hover text">
+   <img src="Results/download (1).png" width="350" title="hover text">
+   <img src="Results/download (2).png" width="350" title="hover text">
+   <img src="Results/download (3).png" width="350" title="hover text">
+   <img src="Results/download (4).png" width="350" title="hover text">
+   <img src="Results/download (5).png" width="350" title="hover text">
 </p>
