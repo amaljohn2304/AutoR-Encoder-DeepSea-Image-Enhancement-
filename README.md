@@ -4,6 +4,7 @@ Enhances underwater images using a model built based on auto encoder architectur
 
 Dataset: https://drive.google.com/drive/folders/1ZEql33CajGfHHzPe1vFxUFCMcP0YbZb3?usp=sharing
 
+<h2>Architecture</h2>
 <p>
  <img src="image.png" width="350" title="hover text">
 </p>
