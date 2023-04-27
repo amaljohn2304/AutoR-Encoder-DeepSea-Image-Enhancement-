@@ -19,6 +19,14 @@ Dataset: https://drive.google.com/drive/folders/1ZEql33CajGfHHzPe1vFxUFCMcP0YbZb
    <img src="Results/download (6).png" width="350" title="hover text">
 </p>
 
+
+<h2>Histogram Analysis</h2>
+A sample of input out pairs were analyzed using histograms of each color channel. Enhancement of Red and green color were observed and a suppression of blue color was seen.
+<p align="left">
+   <img src="hist_analysis.jpg" width="350" title="hover text">
+</p>
+
+
 <h2>Comparative Study</h2>
 The model was compared with many other algorithms and theri results. The quatitative analysis was done on 3 major metrics PSNR, SSIM and MSE. Promising results were obtained.
 <h3>PSNR VALUES</h3>
