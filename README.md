@@ -1,5 +1,5 @@
 # AutoR-Encoder-DeepSea-Image-Enhancement
-Enhances underwater images using a model built based on auto encoder architecture.
+Enhances underwater images using a model built based on auto encoder architecture. The model was trained on a set of 2000 pairs of clear and disturbed images taken underwater. Several other methods such as BPDFHE, CLAHE, MSRCR were implemented for a comparative analysis. The quantitative analysis wereperformed and presented through values succh as PSNR, SSIM and MSE scores. The model is strictly designed for shallow waters as deeper waters would cause extreme lack of light and therefore images would be virtually colourless.
 
 
 Dataset: https://drive.google.com/drive/folders/1ZEql33CajGfHHzPe1vFxUFCMcP0YbZb3?usp=sharing
