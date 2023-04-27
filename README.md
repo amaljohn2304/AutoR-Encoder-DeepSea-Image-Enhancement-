@@ -22,14 +22,14 @@ Dataset: https://drive.google.com/drive/folders/1ZEql33CajGfHHzPe1vFxUFCMcP0YbZb
 <h2>Comparative Study</h2>
 The model was compared with many other algorithms and theri results. The quatitative analysis was done on 3 major metrics PSNR, SSIM and MSE. Promising results were obtained.
 <h3>PSNR VALUES</h3>
-<p align="center">
+<p align="left">
    <img src="psnr.jpg" width="350" title="hover text">
 </p>
 <h3>SSIM VALUES</h3>
-<p align="center">
+<p align="left">
    <img src="ssim.jpg" width="350" title="hover text">
 </p>
 <h3>PSNR VALUES</h3>
-<p align="center">
+<p align="left">
    <img src="mse.jpg" width="350" title="hover text">
 </p>
