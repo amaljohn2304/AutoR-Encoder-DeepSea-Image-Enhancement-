@@ -22,14 +22,17 @@ Dataset: https://drive.google.com/drive/folders/1ZEql33CajGfHHzPe1vFxUFCMcP0YbZb
 <h2>Comparative Study</h2>
 The model was compared with many other algorithms and theri results. The quatitative analysis was done on 3 major metrics PSNR, SSIM and MSE. Promising results were obtained.
 <h3>PSNR VALUES</h3>
+The PSNR values provide Peak to Signal Ratio which is an indication of amount of noise in the iamge.
 <p align="left">
    <img src="psnr.jpg" width="350" title="hover text">
 </p>
 <h3>SSIM VALUES</h3>
+This score defines the similarity between the structural features between the predicted and ideal image.
 <p align="left">
    <img src="ssim.jpg" width="350" title="hover text">
 </p>
-<h3>PSNR VALUES</h3>
+<h3>MSE VALUES</h3>
+The MSE value is a basic error calculation method. In our case it is sum of squares of differences between each pixel pairs of predicted and ideal image.
 <p align="left">
    <img src="mse.jpg" width="350" title="hover text">
 </p>
