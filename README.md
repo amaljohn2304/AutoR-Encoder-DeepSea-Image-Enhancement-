@@ -22,7 +22,7 @@ Dataset: https://drive.google.com/drive/folders/1ZEql33CajGfHHzPe1vFxUFCMcP0YbZb
 
 <h2>Histogram Analysis</h2>
 A sample of input out pairs were analyzed using histograms of each color channel. Enhancement of Red and green color were observed and a suppression of blue color was seen.
-<p align="left">
+<p align="center">
    <img src="hist_analysis.jpg" width="700" title="hover text">
 </p>
 
